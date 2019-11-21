@@ -24,6 +24,4 @@
   <project remote="abmd" revision="0fb115e97187c069f0da90163f1f374a6b7a4af7" upstream="rocko"  name="YOCTO/meta-swupdate"           path="os/sources/meta-swupdate"/>
   <project remote="abmd" revision="2886ff9f81ce1d2a22e8dd8a2d30a02d1f023a11" upstream="rocko"  name="YOCTO/meta-variscite-fslc"     path="os/sources/meta-variscite-fslc"/>
 
-  <project remote="abmd" revision="pyro" name="YOCTO/variscite-bsp-base" path="os/sources/base">
-	<copyfile dest="os/setup-environment" src="setup-environment"/>
-  </project>
+</manifest>
