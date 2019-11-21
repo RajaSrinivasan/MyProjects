@@ -6,7 +6,7 @@
    <remote fetch="git@gitlab.com/"  name="gitlab"/>
    <remote fetch="git@github.com/"  name="github"/>
 
-  <project remote="github"  name="srctrace"    path="srctrace"/>
-  <project remote="gitlab"  name="privatetutor/projectlets/cs"    path="cs"/>
-  <project remote="gitlab"  name="privatetutor/projectlets/go"    path="go"/>
+  <project remote="github"  name="RajaSrinivasan/srctrace"    path="srctrace"/>
+  <project remote="gitlab"  name="RajaSrinivasan/privatetutor/projectlets/cs"    path="cs"/>
+  <project remote="gitlab"  name="RajaSrinivasan/privatetutor/projectlets/go"    path="go"/>
 </manifest>
