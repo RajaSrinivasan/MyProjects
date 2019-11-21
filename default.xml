@@ -7,6 +7,5 @@
    <remote fetch="git://github.com/"  name="github"/>
 
   <project remote="github"  name="RajaSrinivasan/srctrace.git"    path="srctrace"/>
-  <project remote="gitlab"  name="privatetutor/projectlets/cs.git"    path="cs"/>
   <project remote="gitlab"  name="privatetutor/projectlets/go.git"    path="go"/>
 </manifest>
