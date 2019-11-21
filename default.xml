@@ -3,7 +3,7 @@
 
   <default sync-j="4" revision="master" upstream="master"/>
 
-  <remote fetch="git@gitlab.com/"  name="abmd"/>
+   <remote fetch="git@gitlab.com/"  name="gitlab"/>
    <remote fetch="git@github.com/"  name="github"/>
 
   <project remote="github"  name="srctrace"    path="srctrace"/>
