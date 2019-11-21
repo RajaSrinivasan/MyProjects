@@ -3,8 +3,8 @@
 
   <default sync-j="4" revision="master" upstream="master"/>
 
-   <remote fetch="ssh://git@gitlab.com/"  name="gitlab"/>
-   <remote fetch="ssh://git@github.com/"  name="github"/>
+   <remote fetch="git://gitlab.com/"  name="gitlab"/>
+   <remote fetch="git://github.com/"  name="github"/>
 
   <project remote="github"  name="RajaSrinivasan/srctrace.git"    path="srctrace"/>
   <project remote="gitlab"  name="RajaSrinivasan/privatetutor/projectlets/cs.git"    path="cs"/>
